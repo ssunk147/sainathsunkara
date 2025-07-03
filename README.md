@@ -12,7 +12,6 @@
 - Advanced Kafka stream processing
 
 📫 How to reach me:
-- Email: sunkarasainath1@gmail.com
 - GitHub: [ssunk147](https://github.com/ssunk147)
 
 ---
