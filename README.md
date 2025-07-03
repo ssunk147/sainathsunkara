@@ -27,6 +27,3 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud)
 
 ---
-
-## 📊 GitHub Stats
-![Sainath's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunk147&show_icons=true&theme=radical)
